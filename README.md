@@ -7,7 +7,7 @@
       <img src="assets/logo.jpeg" alt="Logo do Projeto" width="150">
     </td>
     <td>
-      <h1>🚦 Projeto: Semáforo com Temporizador Periódico</h1>
+      <h1>🚦 Semáforo com Temporizador Periódico</h1>
     </td>
   </tr>
 </table>

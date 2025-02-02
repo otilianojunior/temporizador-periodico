@@ -147,7 +147,7 @@ Após a compilação, copie o arquivo `.uf2` gerado para o Raspberry Pi Pico W (
   </p>
 
 - **Demonstração em Vídeo:**
-  > 🎥 **Assista ao vídeo demonstrativo:** [Clique aqui para assistir](https://drive.google.com/file/d/1potrEsFfaE2XqKdHTtl_CRhAGqBc4isG/view?usp=sharing)
+  > 🎥 **[Vídeo](https://drive.google.com/file/d/1potrEsFfaE2XqKdHTtl_CRhAGqBc4isG/view?usp=sharing)**
 
 ---
 
